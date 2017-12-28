@@ -1,16 +1,16 @@
 # Sessions
 
 
-##Link of all the resources refered in the sessions
+## Link of all the resources refered in the sessions
 
-#Session 1: Basics of Open Source
+# Session 1: Basics of Open Source
 
-###Prerequisites
+### Prerequisites
 
 * Version control system like [Github](https://git-scm.com/downloads), bitbucket were covered.
 * Account on Github
 * [Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
-* ####Command to configure: 
+* #### Command to configure: 
 * $ git configure --global user.name "John"
 * $ git configure --global user.email "John@gmail.com"
 * [Hosting project on github](https://drive.google.com/file/d/0B3nIqUVBKKGIbmgzMmU5TkFrNEE/view?usp=sharing)
@@ -31,7 +31,7 @@ The URL of this repository will be used in step 8 for "remote repository URL
 
 5. After the 4the step, follow the steps given in the picture with caption steps to host project
 
-* [Hosting project on github](https://drive.google.com/file/d/0B3nIqUVBKKGIbmgzMmU5TkFrNEE/view?usp=sharing)
+* [Pull request]( https://drive.google.com/file/d/16T-zHCZzUwOZdCErrc1R_QvVwYfrL4eI/view?usp=sharing)
 * From 1:29 to 2:27, I'm trying to run my program. In Mac we can use the terminal for both git and compiler so pls don't get confused. You will compile the program the way you do, be it turbo cpp/code blocks or whatever you use.
 Also there's a git command called git status 
 It tells you about the current status of your repository, whether there are any changes that need to be added, or committed or pushed. 
