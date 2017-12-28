@@ -14,7 +14,6 @@
 * $ git configure --global user.name "John"
 * $ git configure --global user.email "John@gmail.com"
 * [Hosting project on github](https://drive.google.com/file/d/0B3nIqUVBKKGIbmgzMmU5TkFrNEE/view?usp=sharing)
-
 * First of all: Create account on GitHub: https://github.com/    
 Setup/Configure git by opening the command prompt/terminal and running the 1sr command, pressing enter then entering the 2nd command. Steps given in the picture captioned configuring git
 Now, to actually host/put up your project/respository on GitHub: 
