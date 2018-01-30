@@ -3,7 +3,7 @@
 
 ## Link of all the resources refered in the sessions
 
-# Session 1: Basics of Open Source
+# Session : Basics of Open Source
 
 ### Prerequisites
 
@@ -35,3 +35,6 @@ The URL of this repository will be used in step 8 for "remote repository URL
 Also there's a git command called git status 
 It tells you about the current status of your repository, whether there are any changes that need to be added, or committed or pushed. 
 Use it frequently. It's helpful.
+
+#Session: GSoC
+
