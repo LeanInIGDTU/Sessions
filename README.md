@@ -36,5 +36,8 @@ Also there's a git command called git status
 It tells you about the current status of your repository, whether there are any changes that need to be added, or committed or pushed. 
 Use it frequently. It's helpful.
 
-#Session: GSoC
+# Session: Advanced Github Commands
+
+* [Squashing and branching](https://github.com/chhavip/Git-Guide#branching-and-pull-requests)
+* [Grep and log](https://github.com/bpassos/git-commands#git-grep)
 
