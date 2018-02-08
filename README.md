@@ -41,3 +41,9 @@ Use it frequently. It's helpful.
 * [Squashing and branching](https://github.com/chhavip/Git-Guide#branching-and-pull-requests)
 * [Grep and log](https://github.com/bpassos/git-commands#git-grep)
 
+## Misc Resources 
+
+* [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy)
+* [What can I do for Mozilla](https://whatcanidoformozilla.org)
+* [Smart Questions](http://www.catb.org/esr/faqs/smart-questions.html)
+* [Dgplug logs](https://dgplug.org/irclogs/)
